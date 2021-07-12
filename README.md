@@ -69,8 +69,6 @@ Mainly Contributed and Maintained by Yuan Zang.
 
 ## 1. Language Parsing
 
-### 1.1 Semantic Parsing 
-
 ###1.2 Text Segmentation
 
 1. **Text Segmentation Techniques: A Critical Review**. 
