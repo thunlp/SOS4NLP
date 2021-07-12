@@ -87,7 +87,7 @@ Mainly Contributed and Maintained by Yuan Zang.
 
    *Angel R Martinez*. Wiley Interdisciplinary Reviews: Computational Statistics 2012. [[pdf](https://wires.onlinelibrary.wiley.com/doi/epdf/10.1002/wics.195)]
 
-###1.4 Coreference Resolution
+### 1.4 Coreference Resolution
 
 1. **Coreference Resolution: A Survey**.
 
@@ -103,7 +103,7 @@ Mainly Contributed and Maintained by Yuan Zang.
 
    *Roberto Navigli*. CSUR 2009. [[pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.153.8457&rep=rep1&type=pdf)]
 
-###1.6 Named Entity Recognization
+### 1.6 Named Entity Recognization
 
 1. **A Survey on Deep Learning for Named Entity Recognition**.
 
@@ -113,15 +113,15 @@ Mainly Contributed and Maintained by Yuan Zang.
 
    *David Nadeau, Satoshi Sekine*. Lingvisticae Investigationes 2007. [[pdf](https://www.time.mk/trajkovski/thesis/li07.pdf)]  
 
-###1.7 Dependency Parsing
+### 1.7 Dependency Parsing
 
 1. **Dependency Parsing**.
 
    *Sandra Kubler, Ryan McDonald, Joakim Nivre*. Synthesis Lectures on Human Language Technologies 2009. [[pdf](https://www.linguisticsociety.org/sites/default/files/e-learning/dependencies.pdf)]
 
-##2. Natural Language Understanding and Generation
+## 2. Natural Language Understanding and Generation
 
-###2.1 Text Classification
+### 2.1 Text Classification
 
 1. **Text Classification Algorithms: A Survey**. 
    *Kamran Kowsari, Kiana Jafari Meimandi, Mojtaba Heidarysafa, Sanjana Mendu, Laura Barnes, Donald Brown*. Information 2019. [[pdf](https://www.mdpi.com/2078-2489/10/4/150/pdf)]
@@ -130,7 +130,7 @@ Mainly Contributed and Maintained by Yuan Zang.
 
    *Berna Altinel, Murat Can Ganiz*. Information Processing \& Management 2018. [[pdf](https://www.sciencedirect.com/science/article/abs/pii/S0306457317305757)]
 
-###2.2 Sentiment Analysis
+### 2.2 Sentiment Analysis
 
 1. **A Survey of Sentiment Analysis in Social Media**. 
    *Lin Yue, Weitong Chen, Xue Li, Wanli Zuo, Minghao Yin*. Knowledge and Information Systems 2019. [[pdf](http://cse.iitkgp.ac.in/~saptarshi/courses/socomp2020a/sentiment-analysis-survey-yue2019.pdf)]
@@ -139,7 +139,7 @@ Mainly Contributed and Maintained by Yuan Zang.
 
    *Lei Zhang, Shuai Wang, Bing Liu*. Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery 2018. [[pdf](https://onlinelibrary.wiley.com/doi/am-pdf/10.1002/widm.1253)]
 
-###2.3 Natural Language Inference
+### 2.3 Natural Language Inference
 
 1. **Recent Advances in Natural Language Inference: A Survey of Benchmarks, Resources, and Approaches**. 
    *Shane Storks, Qiaozi Gao, Joyce Y Chai*. Arxiv 2019. [[pdf](https://arxiv.org/pdf/1904.01172)]
@@ -198,7 +198,7 @@ Mainly Contributed and Maintained by Yuan Zang.
 1. **A Survey on Open Information Extraction**. 
    *Christina Niklaus, Matthias Cetto, Andre Freitas, Siegfried Handschuh*. ACL 2018. [[pdf](https://arxiv.org/pdf/1806.05599)]
 
-##4. Information Retrieval
+## 4. Information Retrieval
 
 1. **Data Mining and Information Retrieval in the 21st Century: A Bibliographic Review**.
 
@@ -216,7 +216,7 @@ Mainly Contributed and Maintained by Yuan Zang.
 
    *Hongshen Chen, Xiaorui Liu, Dawei Yin, Jiliang Tang*. Acm SIGKDD Explorations Newsletter 2017. [[pdf](https://arxiv.org/pdf/1711.01731)]
 
-###5.2 Question Answering
+### 5.2 Question Answering
 
 1. **Core Techniques of Question Answering Systems over Knowledge Bases: A Survey**. 
    *Dennis Diefenbach, Vanessa Lopez, Kamal Singh, Pierre Maret*. Knowledge and Information Systems 2018. [[pdf](https://hal.archives-ouvertes.fr/hal-01637143/document)]
@@ -229,7 +229,7 @@ Mainly Contributed and Maintained by Yuan Zang.
 
    *Oleksandr Kolomiyets, Marie-Francine Moens*. Information Science 2011. [[pdf](http://wtlab1.um.ac.ir/images/e-library/Question_Answering/A%20survey%20on%20question%20answering%20technology%20from%20an%20information%20retrieval%20perspective.pdf)]
 
-##6. Representation Learning
+## 6. Representation Learning
 
 ### 6.1 Representation Learning
 
@@ -319,7 +319,7 @@ Mainly Contributed and Maintained by Yuan Zang.
 
    *Zonghan Wu, Shirui Pan, Fengwen Chen, Guodong Long, Chengqi Zhang, Philip S. Yu*. IEEE transactions on neural networks and learning systems 2020. [[pdf](https://arxiv.org/pdf/1901.00596.pdf)]
 
-###7.4 Reinforcement Learning
+### 7.4 Reinforcement Learning
 
 1. **A Survey of Reinforcement Learning Informed by Natural Language**.
 
@@ -341,7 +341,7 @@ Mainly Contributed and Maintained by Yuan Zang.
 
    *Wei Wang, Vincent W. Zheng, Han Yu, Chunyan Miao*. ACM Transactions on Intelligent Systems and Technology 2019. [[pdf](https://www.ntulily.org/wp-content/uploads/journal/A_Survey_of_Zero-Shot_Learning_Settings_Methods_and_Applications_accepted.pdf)]
 
-###7.7 Meta Learning
+### 7.7 Meta Learning
 
 1. **Meta-Learning in Neural Networks: A Survey**.
 
@@ -367,7 +367,7 @@ Mainly Contributed and Maintained by Yuan Zang.
 
    *Phuc H. Le-Khac, Graham Healy, Alan F. Smeaton*. IEEE Access 2020. [[pdf](https://ieeexplore.ieee.org/iel7/6287639/8948470/09226466.pdf)]
 
-###7.10 Multi-Task Learning
+### 7.10 Multi-Task Learning
 
 1. **Multi-task learning for natural language processing in the 2020s: Where are we going?**
 
@@ -423,7 +423,7 @@ Mainly Contributed and Maintained by Yuan Zang.
 
    *Zhiqiang Zeng, Hua Shi, Yun Wu, Zhiling Hong*. Computational and Mathematical Methods in Medicine 2015. [[pdf](https://pdfs.semanticscholar.org/7013/479be7dda124750aa22fb6231eea2671f630.pdf)].
 
-###8.3 Financial Intelligence
+### 8.3 Financial Intelligence
 
 1. **Natural Language Based Financial Forecasting: A Survey**.
 
