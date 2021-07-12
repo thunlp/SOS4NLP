@@ -199,7 +199,7 @@ Reading the surveys is an efficient way to learn about an academic field. This r
 ### 3.3 Open Information Extraction
 
 1. **A Survey on Open Information Extraction**. 
-   *Christina Niklaus, Matthias Cetto, Andre Freitas, Siegfried Handschuh*. ACL 2018. [[pdf](https://arxiv.org/pdf/1806.05599)]
+   *Christina Niklaus, Matthias Cetto, Andre Freitas, Siegfried Handschuh*. COLING 2018. [[pdf](https://arxiv.org/pdf/1806.05599)]
 
 ## 4. Information Retrieval
 
