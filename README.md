@@ -57,7 +57,7 @@ Mainly Contributed and Maintained by Yuan Zang.
 1. **Advances in natural language processing**.
    *Julia Hirschberg, Christopher D Manning*. Science 2015. [[pdf](https://nlp.stanford.edu/~manning/xyzzy/Hirschberg-Manning-Science-2015.pdf)]
 
-1. **Jumping NLP Curves: A Review of Natural Language Processing Research **.
+1. **Jumping NLP Curves: A Review of Natural Language Processing Research**.
 
    *Erik Cambria, Bebo White*. IEEE Computational Intelligence Magazine 2014. [[pdf](https://www.gwern.net/docs/ai/2014-cambria.pdf)]
 
