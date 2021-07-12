@@ -54,6 +54,7 @@ Mainly Contributed and Maintained by Yuan Zang.
 
 
 ## 0. Surveys of Natural Language Processing
+
 1. **Advances in natural language processing**.
    *Julia Hirschberg, Christopher D Manning*. Science 2015. [[pdf](https://nlp.stanford.edu/~manning/xyzzy/Hirschberg-Manning-Science-2015.pdf)]
 
@@ -69,7 +70,13 @@ Mainly Contributed and Maintained by Yuan Zang.
 
 ## 1. Language Parsing
 
-###1.2 Text Segmentation
+### 1.1 Semantic Parsing 
+
+1. **A Survey on Semantic Parsing**.
+
+   *Aishwarya Kamath, Rajarshi Das*. AKBC 2018. [[pdf](https://arxiv.org/pdf/1812.00978)]
+
+### 1.2 Text Segmentation
 
 1. **Text Segmentation Techniques: A Critical Review**. 
    *Irina Pak, Phoey Lee Teh*. Innovative Computing, Optimization and Its Applications 2018. [[pdf](http://eprints.sunway.edu.my/840/1/Teh%20Phoey%20Lee%20Text%20Segmentation%20Techniques%20A%20Critical%20Review%20edited.pdf)]
