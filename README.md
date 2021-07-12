@@ -71,10 +71,6 @@ Mainly Contributed and Maintained by Yuan Zang.
 
 ### 1.1 Semantic Parsing 
 
-1. **A Survey on Semantic Parsing**.
-
-   *Aishwarya Kamath, Rajarshi Das*. AKBC 2018. [[pdf](https://arxiv.org/pdf/1812.00978)]
-
 ###1.2 Text Segmentation
 
 1. **Text Segmentation Techniques: A Critical Review**. 
