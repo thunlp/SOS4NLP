@@ -179,6 +179,10 @@ Reading the surveys is an efficient way to learn about an academic field. This r
 1. **Recent Automatic Text Summarization Techniques: A Survey**. 
    *Mahak Gambhir, Vishal Gupta*. Artificial Intelligence Review 2017. [[pdf](https://link.springer.com/content/pdf/10.1007/s10462-016-9475-9.pdf)]
 
+1. **A Survey on Dialogue Summarization: Recent Advances and New Frontiers**.
+
+    *Xiachong Feng, Xiaocheng Feng, Bing Qin*. arxiv 2021. [[pdf](https://arxiv.org/pdf/2107.03175)]
+
 ## 3. Information Extraction
 
 ### 3.1 Relation Extraction
@@ -232,6 +236,10 @@ Reading the surveys is an efficient way to learn about an academic field. This r
 
    *Oleksandr Kolomiyets, Marie-Francine Moens*. Information Science 2011. [[pdf](http://wtlab1.um.ac.ir/images/e-library/Question_Answering/A%20survey%20on%20question%20answering%20technology%20from%20an%20information%20retrieval%20perspective.pdf)]
 
+1. **Retrieving and Reading: A Comprehensive Survey on Open-domain Question Answering**.
+
+    *Fengbin Zhu, Wenqiang Lei, Chao Wang, Jianming Zheng, Soujanya Poria, Tat-Seng Chua*. arxiv 2021. [[pdf](https://arxiv.org/pdf/2101.00774)]
+
 ## 6. Representation Learning
 
 ### 6.1 Representation Learning
@@ -246,9 +254,9 @@ Reading the surveys is an efficient way to learn about an academic field. This r
 
    *Fanchao Qi, Ruobing Xie, Yuan Zang, Zhiyuan Liu, Maosong Sun*. Frontiers of Computer Science 2021. [[pdf](https://link.springer.com/article/10.1007/s11704-020-0002-4)]
 
-1. ***Knowledge Graph Embedding: A Survey of Approaches and Applications**.
+1. **Knowledge Graph Embedding: A Survey of Approaches and Applications**.
 
-   Quan Wang, Zhendong Mao, Bin Wang, Li Guo*. TKDE 2017. [[pdf](http://ieeexplore.ieee.org/abstract/document/8047276/)]
+   *Quan Wang, Zhendong Mao, Bin Wang, Li Guo*. TKDE 2017. [[pdf](http://ieeexplore.ieee.org/abstract/document/8047276/)]
 
 1. **Knowledge Representation Learning: A Review**.
 
@@ -334,6 +342,14 @@ Reading the surveys is an efficient way to learn about an academic field. This r
 
    *Pei Liu, Xuemin Wang, Chao Xiang, Weiye Meng*. CCNS 2020. [[pdf](https://www.computer.org/csdl/proceedings-article/ccns/2020/434900a191/1oqKQDVrQOY)]
 
+2. **A Survey of Data Augmentation Approaches for NLP**.
+
+    *Steven Y. Feng, Varun Gangal, Jason Wei, Sarath Chandar, Soroush Vosoughi, Teruko Mitamura, Eduard Hovy*. ACL Finings 2021. [[pdf](https://arxiv.org/pdf/2105.03075)]
+
+3. **An Empirical Survey of Data Augmentation for Limited Data Learning in NLP**. 
+
+    *Jiaao Chen, Derek Tam, Colin Raffel, Mohit Bansal, Diyi Yang*. arxiv 2021. [[pdf](https://arxiv.org/pdf/2106.07499)]
+
 ### 7.6 Few/Zero Shot Learning
 
 1. **Generalizing from a Few Examples: A Survey on Few-Shot Learning**.
@@ -397,6 +413,10 @@ Reading the surveys is an efficient way to learn about an academic field. This r
 1. **Analysis Methods in Neural Language Processing: A Survey**.
 
    *Yonatan Belinkov, James Glass*. TACL 2019. [[pdf](https://direct.mit.edu/tacl/article-pdf/doi/10.1162/tacl_a_00254/1923061/tacl_a_00254.pdf)]
+
+1. **Teach Me to Explain: A Review of Datasets for Explainable NLP**. 
+
+    *Sarah Wiegreffe, Ana Marasović*. arxiv 2021. [[pdf](https://arxiv.org/pdf/2102.12060)]
 
 ### 7.12 Security Threats and Defense
 
