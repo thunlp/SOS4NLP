@@ -1,6 +1,8 @@
 # SOS4NLP
 SOS4NLP: A survey list of surveys for natural language processing.
+
 Mainly Contributed and Maintained by [Yuan Zang](https://github.com/zangy17). 
+
 Reading the surveys is an efficient way to learn about an academic field. This repository provides a paperlist of surveys for different areas of natural language processing. Everyone in Github is welcomed to make contribution to this repository.
 
 ### Contents
