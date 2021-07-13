@@ -3,7 +3,9 @@ SOS4NLP: A survey list of surveys for natural language processing.
 
 Mainly Contributed and Maintained by [Yuan Zang](https://github.com/zangy17). 
 
-Reading the surveys is an efficient way to learn about an academic field. This repository provides a paperlist of surveys for different areas of natural language processing. Everyone in Github is welcomed to make contribution to this repository.
+Reading the surveys is an efficient way to learn about an academic field. This repository provides a paperlist of surveys for different areas of natural language processing. 
+
+Thanks for all great [contributors](#acknowledgements)! Everyone in Github is welcomed to make contribution to this repository.
 
 ### Contents
 
@@ -54,6 +56,7 @@ Reading the surveys is an efficient way to learn about an academic field. This r
   * [8.1 Legal Intelligence](#81-legal-intelligence)
   * [8.2 Bioinformation](#82-bioinformation)
   * [8.3 Financial Intelligence](#83-financial-intelligence)
+* [Acknowledgements](#acknowledgements)
 
 
 ## 0. Surveys of Natural Language Processing
@@ -451,3 +454,9 @@ Reading the surveys is an efficient way to learn about an academic field. This r
 1. **Natural Language Based Financial Forecasting: A Survey**.
 
    *Frank Z. Xing, Erik Cambria, Roy E. Welsch*. Artificial Intelligence Review 2018. [[pdf](https://dspace.mit.edu/bitstream/handle/1721.1/116314/10462_2017_9588_ReferencePDF.pdf?sequence=2&isAllowed=y)].
+
+## Acknowledgements
+
+Great thanks to other contributor [Shengding Hu](https://github.com/ShengdingHu) and [Chenglei Si](https://github.com/NoviScl)! (names are not listed in particular order)
+
+Please contact us if we miss your names in this list, we will add you back ASAP!
