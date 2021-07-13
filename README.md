@@ -457,6 +457,6 @@ Thanks for all great [contributors](#acknowledgements)! Everyone in Github is we
 
 ## Acknowledgements
 
-Great thanks to other contributor [Shengding Hu](https://github.com/ShengdingHu) and [Chenglei Si](https://github.com/NoviScl)! (names are not listed in particular order)
+Great thanks to other contributors [Shengding Hu](https://github.com/ShengdingHu) and [Chenglei Si](https://github.com/NoviScl)! (names are not listed in particular order)
 
 Please contact us if we miss your names in this list, we will add you back ASAP!
