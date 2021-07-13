@@ -185,6 +185,10 @@ Thanks for all great [contributors](#acknowledgements)! Everyone in Github is we
 1. **A Survey on Dialogue Summarization: Recent Advances and New Frontiers**.
 
     *Xiachong Feng, Xiaocheng Feng, Bing Qin*. arxiv 2021. [[pdf](https://arxiv.org/pdf/2107.03175)]
+    
+1. **What Have We Achieved on Text Summarization?**
+
+    *Dandan Huang, Leyang Cui, Sen Yang, Guangsheng Bao, Kun Wang, Jun Xie, Yue Zhang*. EMNLP 2020. [[pdf](https://aclanthology.org/2020.emnlp-main.33.pdf)]
 
 ## 3. Information Extraction
 
