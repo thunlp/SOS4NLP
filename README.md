@@ -71,8 +71,6 @@ Thanks for all great [contributors](#acknowledgements)! Everyone in Github is we
 1. **Natural Language Processing: An Introduction**.
    *Prakash M Nadkarni,  Lucila Ohno-Machado,  Wendy W Chapman*. Journal of the American Medical Informatics Association 2011. [[pdf](https://watermark.silverchair.com/18-5-544.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAskwggLFBgkqhkiG9w0BBwagggK2MIICsgIBADCCAqsGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMTbW0kBdq70u31A2pAgEQgIICfB9c_mxn3VbFBsTi1npJDFQeVGcPm4ColBNSaoe_IQi7mxDJx5DwD9mmYvdhOQf3CIcds_yDPpLJFP_9bvkf0mfQkKb3U9TSm-KMl_xwLjhkIi090ceKWUhQqcbihY4IWKJmapv0kADF73tPUl9yGhmjFe6Bn7wAKhBC0_XE_A1qpqgscRoyQ3rocVi6dklbHjFKBbIKO5790l6gJXijbVqwAJF3WBGWhP9v0uvXlRun--BG8BZYk2CA6aleWw4T_pCh0fh4ZA1zXNnkr3MiE3Z3YtSdNvDuNA19kekWt8WtRDJd33KRqqWIzk_t-Tekk87SpMLR3O59In65vBSUIBiuFB6xPXJu4-HkU6m5hb9NybU8iYT2oQNQQXdh3Xep4c8OfzCkhLO-CVGhIEOLmNgfKuOnxZW9KAQeZrauNHd-binadf6b5MKrtecCOvrdNgAZNSIyTlGUC_knXbGmMbI3ELTDvARIulZykTF0ZfPCFDDxCrWlpy2FzS_9yBwNc_h7qRC0MxINmxHlADF7efxm3L9XoM7v2bul5tqInTjmjGDZX8ZjSlBs0E2Nvq8YaBxaGJkYV7L-KSY81qgRVMfekEha7eRZFPAn6bFbfO3WulUpfD1veDasuwyIlRsql3EGx4VGmkSE7SpYPrMEVSdHU0Wo8LKKj1xCTzmIv_0Por_y4uAnjB7J3IToavjoanU6iOkg-rFyYw5Y8guFBDPJ9CyKLeBf3RjU1_KEOXW2IGaVIcKvQqFIL_Xnb8sBUSZfFJ3bpNpT4aqHyAKun8Ec6yYGd1hVuGg57nHbuDODtxoe-RB0f3BK3K-Lu698fCh-fpWhAAcziNHZhQ)]
 
-1. **Natural Language Processing**. 
-   *Gobinda G Chowdhury*. Annual Review of Information Science and Technology 2003. [[pdf](https://strathprints.strath.ac.uk/2611/1/strathprints002611.pdf)]
 
 ## 1. Language Parsing
 
@@ -103,7 +101,7 @@ Thanks for all great [contributors](#acknowledgements)! Everyone in Github is we
 
 1. **Word Sense Disambiguation: A Survey**.
 
-   *Alok Ranjan Pal*. Arxiv 2015. [[pdf](https://arxiv.org/pdf/1508.01346)]  
+   *Alok Ranjan Pal*. arXiv 2015. [[pdf](https://arxiv.org/pdf/1508.01346)]  
 
 1. **Word Sense Disambiguation: A Survey**.
 
@@ -148,7 +146,7 @@ Thanks for all great [contributors](#acknowledgements)! Everyone in Github is we
 ### 2.3 Natural Language Inference
 
 1. **Recent Advances in Natural Language Inference: A Survey of Benchmarks, Resources, and Approaches**. 
-   *Shane Storks, Qiaozi Gao, Joyce Y Chai*. Arxiv 2019. [[pdf](https://arxiv.org/pdf/1904.01172)]
+   *Shane Storks, Qiaozi Gao, Joyce Y Chai*. arXiv 2019. [[pdf](https://arxiv.org/pdf/1904.01172)]
 
 ### 2.4 Reading Comprehension
 
@@ -163,7 +161,7 @@ Thanks for all great [contributors](#acknowledgements)! Everyone in Github is we
 
 1. **Pretrained Language Models for Text Generation: A Survey**.
 
-   *Junyi Li, Tianyi Tang, Wayne Xin Zhao, Ji-Rong Wen*. Arxiv 2021. [[pdf](https://arxiv.org/pdf/2105.10311.pdf)]
+   *Junyi Li, Tianyi Tang, Wayne Xin Zhao, Ji-Rong Wen*. arXiv 2021. [[pdf](https://arxiv.org/pdf/2105.10311.pdf)]
 
 1. **Survey of the State of the Art in Natural Language Generation: Core Tasks, Applications and Evaluation**. 
    *Albert Gatt, Emiel Krahmer*. Journal of Artificial Intelligence Research 2018. [[pdf](https://www.jair.org/index.php/jair/article/download/11173/26378)]
@@ -182,7 +180,7 @@ Thanks for all great [contributors](#acknowledgements)! Everyone in Github is we
 
 1. **A Survey on Dialogue Summarization: Recent Advances and New Frontiers**.
 
-    *Xiachong Feng, Xiaocheng Feng, Bing Qin*. arxiv 2021. [[pdf](https://arxiv.org/pdf/2107.03175)]
+    *Xiachong Feng, Xiaocheng Feng, Bing Qin*. arXiv 2021. [[pdf](https://arxiv.org/pdf/2107.03175)]
     
 1. **What Have We Achieved on Text Summarization?**
 
@@ -201,7 +199,7 @@ Thanks for all great [contributors](#acknowledgements)! Everyone in Github is we
 
 1. **Relation extraction: a survey**.
 
-   Sachin Pawar, Girish K. Palshikara, Pushpak Bhattacharyyab. Arxiv 2017. [[pdf](https://arxiv.org/pdf/1712.05191.pdf)]
+   Sachin Pawar, Girish K. Palshikara, Pushpak Bhattacharyyab. arXiv 2017. [[pdf](https://arxiv.org/pdf/1712.05191.pdf)]
 
 ### 3.2 Event Extration
 
@@ -225,7 +223,7 @@ Thanks for all great [contributors](#acknowledgements)! Everyone in Github is we
 
 1. **Neural Models for Information Retrieval**.
 
-   *Bhaskar Mitra, Nick Craswell*. Arxiv 2017. [[pdf](https://arxiv.org/pdf/1705.01509.pdf)]
+   *Bhaskar Mitra, Nick Craswell*. arXiv 2017. [[pdf](https://arxiv.org/pdf/1705.01509.pdf)]
 
 ## 5. Dialogue and Question Answering
 
@@ -250,7 +248,7 @@ Thanks for all great [contributors](#acknowledgements)! Everyone in Github is we
 
 1. **Retrieving and Reading: A Comprehensive Survey on Open-domain Question Answering**.
 
-    *Fengbin Zhu, Wenqiang Lei, Chao Wang, Jianming Zheng, Soujanya Poria, Tat-Seng Chua*. arxiv 2021. [[pdf](https://arxiv.org/pdf/2101.00774)]
+    *Fengbin Zhu, Wenqiang Lei, Chao Wang, Jianming Zheng, Soujanya Poria, Tat-Seng Chua*. arXiv 2021. [[pdf](https://arxiv.org/pdf/2101.00774)]
 
 ## 6. Representation Learning
 
@@ -318,11 +316,11 @@ Thanks for all great [contributors](#acknowledgements)! Everyone in Github is we
 
 1. **A Survey of Transformers**.
 
-   *Tianyang Lin, Yuxin Wang, Xiangyang Liu, Xipeng Qiu*. Arxiv 2021. [[pdf](https://arxiv.org/pdf/2106.04554)]
+   *Tianyang Lin, Yuxin Wang, Xiangyang Liu, Xipeng Qiu*. arXiv 2021. [[pdf](https://arxiv.org/pdf/2106.04554)]
 
 1. **Pre-Trained Models: Past, Present and Future**.
 
-   *Xu Han, Zhengyan Zhang, Ning Ding, Yuxian Gu, Xiao Liu, Yuqi Huo, Jiezhong Qiu, Liang Zhang, Wentao Han, Minlie Huang, Qin Jin, Yanyan Lan, Yang Liu, Zhiyuan Liu, Zhiwu Lu, Xipeng Qiu, Ruihua Song, Jie Tang, Ji-Rong Wen, Jinhui Yuan, Wayne Xin Zhao, Jun Zhu*. Arxiv 2021. [[pdf](https://arxiv.org/abs/2106.07139)]
+   *Xu Han, Zhengyan Zhang, Ning Ding, Yuxian Gu, Xiao Liu, Yuqi Huo, Jiezhong Qiu, Liang Zhang, Wentao Han, Minlie Huang, Qin Jin, Yanyan Lan, Yang Liu, Zhiyuan Liu, Zhiwu Lu, Xipeng Qiu, Ruihua Song, Jie Tang, Ji-Rong Wen, Jinhui Yuan, Wayne Xin Zhao, Jun Zhu*. arXiv 2021. [[pdf](https://arxiv.org/abs/2106.07139)]
 
 1. **Pre-trained models for natural language processing: A survey**.
 
@@ -330,13 +328,13 @@ Thanks for all great [contributors](#acknowledgements)! Everyone in Github is we
 
 1. **Efficient Transformers: A Survey**.
 
-   *Yi Tay, Mostafa Dehghani, Dara Bahri, Donald Metzler*. Arxiv 2020. [[pdf](https://arxiv.org/pdf/2009.06732)]
+   *Yi Tay, Mostafa Dehghani, Dara Bahri, Donald Metzler*. arXiv 2020. [[pdf](https://arxiv.org/pdf/2009.06732)]
 
 ### 7.3 Graph Neural Networks
 
 1. **Graph Neural Networks for Natural Language Processing: A Survey**.
 
-   *Lingfei Wu, Yu Chen, Kai Shen, Xiaojie Guo, Hanning Gao, Shucheng Li, Jian Pei, Bo Long*. Arxiv 2021. [[pdf](https://arxiv.org/pdf/2106.04554)]
+   *Lingfei Wu, Yu Chen, Kai Shen, Xiaojie Guo, Hanning Gao, Shucheng Li, Jian Pei, Bo Long*. arXiv 2021. [[pdf](https://arxiv.org/pdf/2106.04554)]
 
 1. **Robustness of Deep Learning Models on Graphs: A Survey**.
 
@@ -370,7 +368,7 @@ Thanks for all great [contributors](#acknowledgements)! Everyone in Github is we
 
 3. **An Empirical Survey of Data Augmentation for Limited Data Learning in NLP**. 
 
-    *Jiaao Chen, Derek Tam, Colin Raffel, Mohit Bansal, Diyi Yang*. arxiv 2021. [[pdf](https://arxiv.org/pdf/2106.07499)]
+    *Jiaao Chen, Derek Tam, Colin Raffel, Mohit Bansal, Diyi Yang*. arXiv 2021. [[pdf](https://arxiv.org/pdf/2106.07499)]
 
 ### 7.6 Few/Zero Shot Learning
 
@@ -390,7 +388,7 @@ Thanks for all great [contributors](#acknowledgements)! Everyone in Github is we
 
 1. **Meta-Learning: A Survey**.
 
-   *Joaquin Vanschoren*. Arxiv 2018. [[pdf](https://arxiv.org/pdf/1810.03548)]
+   *Joaquin Vanschoren*. arXiv 2018. [[pdf](https://arxiv.org/pdf/1810.03548)]
 
 ### 7.8 Continual Learning
 
@@ -400,13 +398,8 @@ Thanks for all great [contributors](#acknowledgements)! Everyone in Github is we
 
 ### 7.9 Contrastive Learning
 
-1. **A Survey on Contrastive Self-Supervised Learning**.
+1. **A Survey on Contrastive Self-Supervised Learning**. *Ashish Jaiswal, Ashwin Ramesh Babu, Mohammad Zaki Zadeh, Debapriya Banerjee, Fillia Makedon*. Technologies 2021. [[pdf](https://www.mdpi.com/2227-7080/9/1/2/pdf)]
 
-   *Ashish Jaiswal, Ashwin Ramesh Babu, Mohammad Zaki Zadeh, Debapriya Banerjee, Fillia Makedon*. Technologies 2021. [[pdf](https://www.mdpi.com/2227-7080/9/1/2/pdf)]
-
-1. **Contrastive Representation Learning: A Framework and Review**.
-
-   *Phuc H. Le-Khac, Graham Healy, Alan F. Smeaton*. IEEE Access 2020. [[pdf](https://ieeexplore.ieee.org/iel7/6287639/8948470/09226466.pdf)]
 
 ### 7.10 Multi-Task Learning
 
@@ -416,7 +409,7 @@ Thanks for all great [contributors](#acknowledgements)! Everyone in Github is we
 
 1. **An Overview of Multi-Task Learning in Deep Neural Networks**.
 
-   *Sebastian Ruder*. Arxiv 2017. [[pdf](https://arxiv.org/pdf/1706.05098)]
+   *Sebastian Ruder*. arXiv 2017. [[pdf](https://arxiv.org/pdf/1706.05098)]
 
 ### 7.11 Intepretability and Analysis
 
@@ -438,7 +431,7 @@ Thanks for all great [contributors](#acknowledgements)! Everyone in Github is we
 
 1. **Teach Me to Explain: A Review of Datasets for Explainable NLP**. 
 
-    *Sarah Wiegreffe, Ana Marasović*. arxiv 2021. [[pdf](https://arxiv.org/pdf/2102.12060)]
+    *Sarah Wiegreffe, Ana Marasović*. arXiv 2021. [[pdf](https://arxiv.org/pdf/2102.12060)]
 
 ### 7.12 Security Threats and Defense
 
@@ -448,11 +441,11 @@ Thanks for all great [contributors](#acknowledgements)! Everyone in Github is we
 
 1. **Backdoor Learning: A Survey**.
 
-   *Yiming Li, Baoyuan Wu, Yong Jiang, Zhifeng Li, Shu-Tao Xia*. Arxiv 2020. [[pdf](https://arxiv.org/pdf/2007.08745.pdf)].
+   *Yiming Li, Baoyuan Wu, Yong Jiang, Zhifeng Li, Shu-Tao Xia*. arXiv 2020. [[pdf](https://arxiv.org/pdf/2007.08745.pdf)].
 
 1. **A Survey of Privacy Attacks in Machine Learning**.
 
-   *Maria Rigaki, Sebastian Garcia*. Arxiv 2020. [[pdf](https://arxiv.org/pdf/2007.07646)]
+   *Maria Rigaki, Sebastian Garcia*. arXiv 2020. [[pdf](https://arxiv.org/pdf/2007.07646)]
 
 ## 8. Interdisciplinary Natural language Processing Application
 
