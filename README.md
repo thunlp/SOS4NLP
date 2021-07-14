@@ -15,7 +15,7 @@ Thanks for all great [contributors](#acknowledgements)! Everyone in Github is we
   * [1.2 Syntactic Parsing](#12-syntactic-parsing)
   * [1.3 Dependency Parsing](#13-dependency-parsing)
   * [1.4 Semantic Parsing](#14-semantic-parsing)
-  * [1.5 Part of Speech Tagging](#15-part-of-speech)
+  * [1.5 Part of Speech Tagging](#15-part-of-speech-tagging)
   * [1.6 Word Sense Disambiguation](#16-word-sense-disambiguation)
   * [1.7 Named Entity Recognization](#17-named-entity-recognization)
   * [1.8 Coreference Resolution](#18-coreference-resolution)
