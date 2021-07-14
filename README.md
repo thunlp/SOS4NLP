@@ -57,7 +57,7 @@ Thanks for all great [contributors](#acknowledgements)! Everyone in Github is we
   * [8.12 Security Threats and Defense](#812-security-threats-and-defense)
 * [9. Natural language Processing Application](#9-natural-language-processing-application)
   * [9.1 Legal Intelligence](#91-legal-intelligence)
-  * [9.2 Bioinformation](#92-bioinformation)
+  * [9.2 Bioinformatics](#92-bioinformatics)
   * [9.3 Financial Intelligence](#93-financial-intelligence)
   * [9.4 Recommendation](#94-recommendation)
   * [9.5 Computational Social Science](#95-computational-social-science)
