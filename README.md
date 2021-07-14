@@ -170,17 +170,15 @@ Thanks for all great [contributors](#acknowledgements)! Everyone in Github is we
 
 ### 2.6 Machine Translation
 
-1. **A Survey of Multilingual Neural Machine Translation**. 
-   *Raj Dabre, Chenhui Chu, Anoop Kunchukuttan*. CSUR 2020. [[pdf](https://dl.acm.org/doi/pdf/10.1145/3406095)]
-
+1. **Neural Machine Translation: A Review of Methods, Resources, and Tools**.
+   
+*Zhixing Tan, Shuo Wang, Zonghan Yang, Gang Chen, Xuancheng Huang, Maosong Sun, YangLiu*. AI Open 2020. [[pdf](https://pdf.sciencedirectassets.com/777606/1-s2.0-S2666651020X00027/1-s2.0-S2666651020300024/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJGMEQCIEI%2Fd%2BRJ29itBNaq4DDn72X5y%2BvR4sUPQVYGkvCaOxSlAiBb9Jk8gNj2eRv5XzqU3MDZLcM9cNVYMk3bApmgOuKo5SqDBAjh%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAQaDDA1OTAwMzU0Njg2NSIMGBZpbHJaLTbA2IKlKtcDlKl3M%2FKoev68AxfA1LPWWUNURJZeL4opVifdAsIMyGUSQ0PEtmApxPZUw7VrdigGDkvaShDCCYh0Y0RJWXF9GXX%2BpJBuuv8eae1mGQ1OjjBgT2rmIVCx%2BcCpyBeTkz2BWEzf36ZBqIs96pGUGptZOruWn03TkrTIk9u7reHlD1dP3WAhEynkyAFu6ZYxhJ4i54R%2FDDPUvKhvHRe54QvYHciX%2BDUQr%2B8LqkhGPLs3%2F1fKkpbtbYKPaEd2Il2rJAG26xNhj2b6%2FZnHoA6cn%2B%2F3CszEXb6QhQHDB8g4ZhmJTivtVtRmWXexmpFo0%2FUpMXLLlojv9SoCME80T1skNCRqOWzWjN7T%2F4exLLxIHVn9YXDKHczyKkAY0F%2B8gcICr36m0y9joAsGo8cSj5afhzA1GalxsYdOiSV0rfZApSZ3giU74snMygiXsmYtI7o6G%2FpRGC%2FNuJfP0%2BZgviIhCXY2OtOcujYyj3dixk6AFMkAHmbJEG2XyqE6HdOxsv7pcBDe%2BBtkbMMriBdlARwyP13qdS%2BaP8NOuTwdF3ykM8dwsQXC7Bg1soovygfTiBYPr%2FBBewCVXlY%2BEWo1XTCF2rBh93od29atHRiaFnH16zU%2FeBHqFR%2FwIueOMMups4cGOqYBUMp8kSHbPS7itMjQoLFtUow0nDP1jtAKu7aZ0pc2575N2vF3ljE%2BOb4EOjRX38EC9s%2BoKu62gEeZPpIHXOuAlmMopPwkPOmAhgsS6SBm8GkkbUOsqiZYrkMMCaxBXLof7Hb0J%2FO%2BP5X0pfoxehoAhhA5kAsxgmYc%2BfOvhKaScNacloAs3j1fIq5yPXSz97%2B98GxPDNKE1%2BZ349rpPxYdOHMWLomZNw%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20210713T011505Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYXAOF4ABF%2F20210713%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=e7ed2a8e3a1864f8e8501ab7267e8fccb4063f50bede5feafa0b70ccab5b2521&hash=da1e8d310c84ee9994d7353a0f8bd6819053d8d02889f652f94641cbcfea9a19&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S2666651020300024&tid=spdf-def16018-cee7-4413-938c-6b22e9f94fdc&sid=27eca1f72344884dbe7913d4b18b564d6a85gxrqa&type=client)]
+   
 1. **A Survey of Machine Translation: Its History, Current Status and Future Prospects**.
 
    *Jonathan Slocum*. Computational Linguistics 1985. [[pdf](https://www.aclweb.org/anthology/J85-1001.pdf)]
 
 ### 2.7 Text Summarization
-
-1. **Recent Automatic Text Summarization Techniques: A Survey**. 
-   *Mahak Gambhir, Vishal Gupta*. Artificial Intelligence Review 2017. [[pdf](https://link.springer.com/content/pdf/10.1007/s10462-016-9475-9.pdf)]
 
 1. **A Survey on Dialogue Summarization: Recent Advances and New Frontiers**.
 
@@ -189,6 +187,9 @@ Thanks for all great [contributors](#acknowledgements)! Everyone in Github is we
 1. **What Have We Achieved on Text Summarization?**
 
     *Dandan Huang, Leyang Cui, Sen Yang, Guangsheng Bao, Kun Wang, Jun Xie, Yue Zhang*. EMNLP 2020. [[pdf](https://aclanthology.org/2020.emnlp-main.33.pdf)]
+
+1. **Recent Automatic Text Summarization Techniques: A Survey**. 
+    *Mahak Gambhir, Vishal Gupta*. Artificial Intelligence Review 2017. [[pdf](https://link.springer.com/content/pdf/10.1007/s10462-016-9475-9.pdf)]
 
 ## 3. Information Extraction
 
@@ -206,6 +207,10 @@ Thanks for all great [contributors](#acknowledgements)! Everyone in Github is we
 
 1. **A Survey of Event Extraction from Text**. 
    *Wei Xiang, Bang Wang*. IEEE Access 2019. [[pdf](https://ieeexplore.ieee.org/iel7/6287639/8600701/08918013.pdf)]
+   
+2. **Extracting Events and Their Relations from Texts: A Survey on Recent Research Progress and Challenges**.
+
+   *Kang Liu, Yubo Chen, Jian Liu, Xinyu Zuo, Jun Zhao*. AI Open 2020. [[pdf](https://www.sciencedirect.com/science/article/pii/S266665102100005X/pdfft?md5=3983861e9ae91ce7b45f0c5533071077&pid=1-s2.0-S266665102100005X-main.pdf)]
 
 ### 3.3 Open Information Extraction
 
@@ -281,6 +286,10 @@ Thanks for all great [contributors](#acknowledgements)! Everyone in Github is we
 
 ### 6.4 Network Representation Learning
 
+1. **Network Representation Learning: A Macro and Micro View**.
+
+   *Xueyi Liu, Jie Tang*. AI Open 2021. [[pdf](https://pdf.sciencedirectassets.com/777606/1-s2.0-S2666651021X00022/1-s2.0-S2666651021000024/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQDF4AZ3X%2BNSkwIYrQFjT5J2NmWQoHmxcdnZ%2FcUedLywSgIhAII%2FNrzVTGMN1PMuzFJn%2FSKD4UfyWdV3w2K6wuGU8GSJKoMECOH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQBBoMMDU5MDAzNTQ2ODY1Igx4dtx3R0qAisPhSuAq1wO%2FfY2wuQ6oZ9%2FyuJoq4P7j2zbMRSxFWEdIFt%2BInUKHuKOR6Z2QolCfx10s7ool05vvnLgkwesm4G5TIbFdq9AyaKtnGB2fIkRL872m94O9RRUYvWONG6UxFcMCmEbXhvQPWBsz1ypEsJkTeZ7S9oVZaWXaJeNr90BrHWxSdoOQ2U%2Fy%2Bo7OCY4cExwbBzRGVpQQ%2BhwEjUpzBmhHRa3ITiZJZrIedCZE7tL%2FuQ2AxM963t9GOX0dl3fx2aF4u89FLnXjSUwS8kSII37OmEoOoqU8GalrGQSqbLfVX3jCh4LJucC76fZNXB7Ueu%2Bn%2FY%2BpYSn71iAFnSpsVYoxL2zx%2BqyTq8twGK70%2BU9bRtCHoAV26Z8Z7IRqiMZm5wLdvuaUDt%2B79izGneQ4dfPymy5Z50RWxhHDupoYYuCcl53EwHS5DJ8eOoQ6mjOszngrVwZsnohHIw0v1kOwH8zAmwUFuYvar543JI1HfXIPLndTFsKXhxnN%2BppqrW5Myxf06NvQgZ9QJPYcnFlcgCn3pN0QbjgZx%2FNkwqYvp3qFe6ASVZzON694ufdsBnzCfKK4W7kczivEsmd83%2Fd5nC8P18I3EMeGK%2FqI34SpBpJqGB0Me3Fc6nhQQM8eW3Yw6a%2BzhwY6pAGtEmsONGDApmnuJDw06%2FP5MqunMCAPmOCm5j4p%2BqWbtDyaACe9vPmBt4RPgRA4B7Axxi05VzhjJ525wrThobJ86%2BFIHHyfXcipLDY3Z5wz1wIdv%2FL6qvXR%2B1A05XULV2BMQVEEGzFrFTr%2BFSLx%2BStedvTrwlS8s22mBg6Y4U6yoH7XrI28KcIpMaIfbTscy34E3aqKqCE%2FLcdl19JYgwg46dUebw%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20210713T011759Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY4MKE7SXL%2F20210713%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=b475442910cb1cbe2893d7a57cb204012ba3fb1c4038481a79775f88eaf78ec9&hash=b0aee28209890c3e40e3b1fca16a70a0d6f7c8ed6c36846912b65f7811a8d480&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S2666651021000024&tid=spdf-69cab0cb-463d-46df-b673-08b0dc37a6fa&sid=27eca1f72344884dbe7913d4b18b564d6a85gxrqa&type=client)]
+
 1. **A Survey on Network Embedding**.
 
    *Peng Cui, Xiao Wang, Jian Pei, Wenwu Zhu*. TKDE 2018. [[pdf](https://arxiv.org/pdf/1711.08752)]
@@ -329,6 +338,10 @@ Thanks for all great [contributors](#acknowledgements)! Everyone in Github is we
 
    *Lingfei Wu, Yu Chen, Kai Shen, Xiaojie Guo, Hanning Gao, Shucheng Li, Jian Pei, Bo Long*. Arxiv 2021. [[pdf](https://arxiv.org/pdf/2106.04554)]
 
+1. **Robustness of Deep Learning Models on Graphs: A Survey**.
+
+   *Jiarong Xu, Junru Chen, Siqi You, Zhiqing Xiao, Yang Yang, Jiangang Lu*. AI Open 2021. [[pdf](https://pdf.sciencedirectassets.com/777606/1-s2.0-S2666651021X00022/1-s2.0-S2666651021000139/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEBEaCXVzLWVhc3QtMSJHMEUCIQDmcB9h7dKn3wvTXbv0mGpCRs2zxb7v0oNAoEYfK65lXAIgWbqRSd0Dcxz1EoKSYxbMQb0Iazt1HZAUteMHhXvc2F0qgwQI%2Bf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAEGgwwNTkwMDM1NDY4NjUiDMMC3gpvzxTpfbscwyrXAzesgUHaJWjNaP29to2qfBQFPC6lwNAHbcRwVgCWfdvccX%2BQi%2BX0hgSkVMDLB3F5nfKwG05JfDE3ZsfVttAZ2djvytUk3%2F8R9UszAqjBWKFeNsuWKK0Ogh3N6acYe7w7bBkMJ9vdFgf%2BjAPnIvsDCX6hmDeZQQe4RokCv1oCM4M01T5%2FTmVzZS2f9AukdAZ%2BvwXH2ATXMB27n9vhN01kTbcci9IK2F2wpbRr2%2Bbuebs1yYHE0SP3EuAsyuDdbSCpZxxB%2BnEGBt%2FBnVm7LHR%2ByHDHgXtY1K7co6oHwM0AQHK8b5IjSd7OjRFnHBYjuOGWe3hCE0N7MixhK7kh4rV1DPb8FgOYxTZgwZ8f0upRvdK9cOGx3aoyxXVGpMO%2B5ScgkXn3i6wDbwX5FLFb%2FbHtBIvEWj1MQ9KbhYzfrc2kTfqTacN9uRxGw8wc8NS%2BsBus9U7oyjvvpgknJ5je7guaCXgotoXmvOdeIlXEywP7XnBzMz1oxvdeIXteNc8k%2Fq9kKLe6EMiGz0dKwu3lSxS0N9jBvDAup8yoT%2BnHE6zWxyGFiOy720aKS%2FH0HS8TFpX648TTjG2Kv6bcE9%2FHsHD9Fea3ydeGLRscRAx02asRcerDARdGjCuzWzC91biHBjqlAenPBD5BQFVYcnENsDGaZCqFDGVju%2BLTSvkglhMraDbXEKEGNiOMcDNt321b%2FEbsNFjB7r7sfJYAp8PizoFiR9mVds2oM2KQYW5YKrq252dWYS7SP%2BNi6nvnmKRBBLs%2F4r59bk3SHemKj%2FxbLucRMzd9qB9mPSIzzfOudBeACQ%2BEHQ1Fmc6CaY109NGRayIkfOtE6iM0XOW%2BQX07crvRWo%2FHlw%2F%2FvQ%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20210714T020215Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYV7YMI542%2F20210714%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=dcaf351d4a7f1c1818f4d436fd3c522460839dd98c69809aecf7466c4c9debed&hash=c51537b014f1d20d25cd8553fa5586fab12f731df76eee3dabbcc0b342f0048a&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S2666651021000139&tid=spdf-90eddceb-73c9-4b80-878d-65985d4a175a&sid=80948377662c7948732be96-54885b4a3c51gxrqa&type=client)]
+
 1. **Graph Neural Networks: A Review of Methods and Applications**.
 
    *Jie Zhou, Ganqu Cui, Shengding Hu, Zhengyan Zhang, Cheng Yang, Zhiyuan Liu, Lifeng Wang, Changcheng Li, Maosong Sun*. AI Open 2020. [[pdf](https://www.sciencedirect.com/science/article/pii/S2666651021000012)]
@@ -336,6 +349,8 @@ Thanks for all great [contributors](#acknowledgements)! Everyone in Github is we
 1. **A Comprehensive Survey on Graph Neural Networks**.
 
    *Zonghan Wu, Shirui Pan, Fengwen Chen, Guodong Long, Chengqi Zhang, Philip S. Yu*. IEEE transactions on neural networks and learning systems 2020. [[pdf](https://arxiv.org/pdf/1901.00596.pdf)]
+   
+   
 
 ### 7.4 Reinforcement Learning
 
@@ -461,6 +476,6 @@ Thanks for all great [contributors](#acknowledgements)! Everyone in Github is we
 
 ## Acknowledgements
 
-Great thanks to other contributors [Shengding Hu](https://github.com/ShengdingHu) and [Chenglei Si](https://github.com/NoviScl)! (names are not listed in particular order)
+Great thanks to other contributor [Shengding Hu](https://github.com/ShengdingHu), [Chenglei Si](https://github.com/NoviScl) and [Han-Gil Kim](https://github.com/uoneway)! (names are not listed in particular order)
 
 Please contact us if we miss your names in this list, we will add you back ASAP!
