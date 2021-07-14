@@ -44,7 +44,7 @@ Thanks for all great [contributors](#acknowledgements)! Everyone in Github is we
   * [7.2 Commen Sense Knowledge](#72-common-sense-knowledge)
 * [8. Machine Learning for Natural Language Processing](#8-machine-learning-for-natural-language-processing)
   * [8.1 Deep Learning for Natural Language Processing](#81-deep-learning-for-natural-language-processing)
-  * [8.2 Transformers and Pretrain Language Models](#82-transformers-and-pre-trained-language-models)
+  * [8.2 Transformers and Pre-trained Language Models](#82-transformers-and-pre-trained-language-models)
   * [8.3 Graph Neural Networks](#83-graph-neural-networks)
   * [8.4 Reinforcement Learning](#84-reinforcement-learning)
   * [8.5 Data Augmentation](#85-data-augmentation)
