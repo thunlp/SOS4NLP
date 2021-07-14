@@ -11,15 +11,14 @@ Thanks for all great [contributors](#acknowledgements)! Everyone in Github is we
 
 * [0. Surveys of Natural Language Processing](#0-surveys-of-natural-language-processing)
 * [1. Language Parsing](#1-language-parsing)
-  * [1.1 Text Segmentation](#11-text-segmentation)
-  * [1.2 Chinese Word Segmentation](#12-chinese-word-segmentation)
-  * [1.3 Syntactic Parsing](#13-syntactic-parsing)
-  * [1.4 Dependency Parsing](#14-dependency-parsing)
-  * [1.5 Semantic Parsing](#15-semantic-parsing)
-  * [1.6 Part of Speech Tagging](#16-part-of-speech)
-  * [1.7 Word Sense Disambiguation](#17-word-sense-disambiguation)
-  * [1.8 Named Entity Recognization](#18-named-entity-recognization)
-  * [1.9 Coreference Resolution](#19-coreference-resolution)
+  * [1.1 Chinese Word Segmentation](#11-chinese-word-segmentation)
+  * [1.2 Syntactic Parsing](#12-syntactic-parsing)
+  * [1.3 Dependency Parsing](#13-dependency-parsing)
+  * [1.4 Semantic Parsing](#14-semantic-parsing)
+  * [1.5 Part of Speech Tagging](#15-part-of-speech)
+  * [1.6 Word Sense Disambiguation](#16-word-sense-disambiguation)
+  * [1.7 Named Entity Recognization](#17-named-entity-recognization)
+  * [1.8 Coreference Resolution](#18-coreference-resolution)
 * [2. Natural Language Understanding and Generation](#2-natural-language-understanding-and-generation)
   * [2.1 Text Classification](#21-text-classification)
   * [2.2 Sentiment Analysis](#22-sentiment-analysis) 
@@ -70,45 +69,40 @@ Thanks for all great [contributors](#acknowledgements)! Everyone in Github is we
 1. **Advances in natural language processing**. *Julia Hirschberg, Christopher D Manning*. Science 2015. [[paper](https://nlp.stanford.edu/~manning/xyzzy/Hirschberg-Manning-Science-2015.pdf)]
 
 1. **Jumping NLP Curves: A Review of Natural Language Processing Research**.
-   *Erik Cambria, Bebo White*. IEEE Computational Intelligence Magazine 2014. [[paper](https://www.gwern.net/docs/ai/2014-cambria.pdf)]
+   *Erik Cambria, Bebo White*. CIM 2014. [[paper](https://www.gwern.net/docs/ai/2014-cambria.pdf)]
 
 1. **Natural Language Processing: An Introduction**.
-   *Prakash M Nadkarni,  Lucila Ohno-Machado,  Wendy W Chapman*. Journal of the American Medical Informatics Association 2011. [[paper](https://watermark.silverchair.com/18-5-544.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAskwggLFBgkqhkiG9w0BBwagggK2MIICsgIBADCCAqsGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMTbW0kBdq70u31A2pAgEQgIICfB9c_mxn3VbFBsTi1npJDFQeVGcPm4ColBNSaoe_IQi7mxDJx5DwD9mmYvdhOQf3CIcds_yDPpLJFP_9bvkf0mfQkKb3U9TSm-KMl_xwLjhkIi090ceKWUhQqcbihY4IWKJmapv0kADF73tPUl9yGhmjFe6Bn7wAKhBC0_XE_A1qpqgscRoyQ3rocVi6dklbHjFKBbIKO5790l6gJXijbVqwAJF3WBGWhP9v0uvXlRun--BG8BZYk2CA6aleWw4T_pCh0fh4ZA1zXNnkr3MiE3Z3YtSdNvDuNA19kekWt8WtRDJd33KRqqWIzk_t-Tekk87SpMLR3O59In65vBSUIBiuFB6xPXJu4-HkU6m5hb9NybU8iYT2oQNQQXdh3Xep4c8OfzCkhLO-CVGhIEOLmNgfKuOnxZW9KAQeZrauNHd-binadf6b5MKrtecCOvrdNgAZNSIyTlGUC_knXbGmMbI3ELTDvARIulZykTF0ZfPCFDDxCrWlpy2FzS_9yBwNc_h7qRC0MxINmxHlADF7efxm3L9XoM7v2bul5tqInTjmjGDZX8ZjSlBs0E2Nvq8YaBxaGJkYV7L-KSY81qgRVMfekEha7eRZFPAn6bFbfO3WulUpfD1veDasuwyIlRsql3EGx4VGmkSE7SpYPrMEVSdHU0Wo8LKKj1xCTzmIv_0Por_y4uAnjB7J3IToavjoanU6iOkg-rFyYw5Y8guFBDPJ9CyKLeBf3RjU1_KEOXW2IGaVIcKvQqFIL_Xnb8sBUSZfFJ3bpNpT4aqHyAKun8Ec6yYGd1hVuGg57nHbuDODtxoe-RB0f3BK3K-Lu698fCh-fpWhAAcziNHZhQ)]
+   *Prakash M Nadkarni,  Lucila Ohno-Machado,  Wendy W Chapman*. JAMIA 2011. [[paper](https://watermark.silverchair.com/18-5-544.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAskwggLFBgkqhkiG9w0BBwagggK2MIICsgIBADCCAqsGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMTbW0kBdq70u31A2pAgEQgIICfB9c_mxn3VbFBsTi1npJDFQeVGcPm4ColBNSaoe_IQi7mxDJx5DwD9mmYvdhOQf3CIcds_yDPpLJFP_9bvkf0mfQkKb3U9TSm-KMl_xwLjhkIi090ceKWUhQqcbihY4IWKJmapv0kADF73tPUl9yGhmjFe6Bn7wAKhBC0_XE_A1qpqgscRoyQ3rocVi6dklbHjFKBbIKO5790l6gJXijbVqwAJF3WBGWhP9v0uvXlRun--BG8BZYk2CA6aleWw4T_pCh0fh4ZA1zXNnkr3MiE3Z3YtSdNvDuNA19kekWt8WtRDJd33KRqqWIzk_t-Tekk87SpMLR3O59In65vBSUIBiuFB6xPXJu4-HkU6m5hb9NybU8iYT2oQNQQXdh3Xep4c8OfzCkhLO-CVGhIEOLmNgfKuOnxZW9KAQeZrauNHd-binadf6b5MKrtecCOvrdNgAZNSIyTlGUC_knXbGmMbI3ELTDvARIulZykTF0ZfPCFDDxCrWlpy2FzS_9yBwNc_h7qRC0MxINmxHlADF7efxm3L9XoM7v2bul5tqInTjmjGDZX8ZjSlBs0E2Nvq8YaBxaGJkYV7L-KSY81qgRVMfekEha7eRZFPAn6bFbfO3WulUpfD1veDasuwyIlRsql3EGx4VGmkSE7SpYPrMEVSdHU0Wo8LKKj1xCTzmIv_0Por_y4uAnjB7J3IToavjoanU6iOkg-rFyYw5Y8guFBDPJ9CyKLeBf3RjU1_KEOXW2IGaVIcKvQqFIL_Xnb8sBUSZfFJ3bpNpT4aqHyAKun8Ec6yYGd1hVuGg57nHbuDODtxoe-RB0f3BK3K-Lu698fCh-fpWhAAcziNHZhQ)]
 
 
 ## 1. Language Parsing
 
-### 1.1 Text Segmentation
-
-1. **Text Segmentation Techniques: A Critical Review**. 
-   *Irina Pak, Phoey Lee Teh*. Innovative Computing, Optimization and Its Applications 2018. [[paper](http://eprints.sunway.edu.my/840/1/Teh%20Phoey%20Lee%20Text%20Segmentation%20Techniques%20A%20Critical%20Review%20edited.pdf)]
-
-### 1.2 Chinese Word Segmentation
+### 1.1 Chinese Word Segmentation
 
 1. **Chinese Word Segmentation: A Decade Review**. Changning Huang, Hai Zhao. JCIP 2007. [[paper](https://en.cnki.com.cn/Article_en/CJFDTotal-MESS200703001.htm)] 
 
-### 1.3 Syntactic Parsing
+### 1.2 Syntactic Parsing
 
 1. **Syntactic Parsing: A Survey**.
 
    *Alton F. Sanders and Ruth H. Sanders*. Computers and the Humanities 1989. [[paper](https://www.academia.edu/download/46281305/bf0005876620160606-13840-7rn8pc.pdf)]
 
-### 1.4 Dependency Parsing
+### 1.3 Dependency Parsing
 
 1. **Dependency Parsing**.
    *Sandra Kubler, Ryan McDonald, Joakim Nivre*. SLHLT 2009. [[paper](https://www.linguisticsociety.org/sites/default/files/e-learning/dependencies.pdf)]
 
-### 1.5 Semantic Parsing 
+### 1.4 Semantic Parsing 
 
 1. **A Survey on Semantic Parsing**.
    *Aishwarya Kamath, Rajarshi Das*. AKBC 2018. [[paper](https://arxiv.org/pdf/1812.00978)]
 
-### 1.6 Part of Speech Tagging
+### 1.5 Part of Speech Tagging
 
 1. **Part‐of‐speech Tagging**.
    *Angel R Martinez*. WIREs Comp Stats 2012. [[paper](https://wires.onlinelibrary.wiley.com/doi/epdf/10.1002/wics.195)]
 
-### 1.7 Word Sense Disambiguation
+### 1.6 Word Sense Disambiguation
 
 1. **Word Sense Disambiguation: A Survey**.
    *Alok Ranjan Pal*. arXiv 2015. [[paper](https://arxiv.org/pdf/1508.01346)]  
@@ -116,14 +110,14 @@ Thanks for all great [contributors](#acknowledgements)! Everyone in Github is we
 1. **Word Sense Disambiguation: A Survey**.
    *Roberto Navigli*. CSUR 2009. [[paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.153.8457&rep=rep1&type=pdf)]
 
-### 1.8 Named Entity Recognization
+### 1.7 Named Entity Recognization
 
 1. **A Survey on Deep Learning for Named Entity Recognition**.
    *Jing Li, Aixin Sun, Jianglei Han, Chenliang Li*. TKDE 2020. [[paper](https://arxiv.org/pdf/1812.09449)]
 1. **A Survey of Named Entity Recognition and Classification**.
    *David Nadeau, Satoshi Sekine*. Lingvisticae Investigationes 2007. [[paper](https://www.time.mk/trajkovski/thesis/li07.pdf)]  
 
-### 1.9 Coreference Resolution
+### 1.8 Coreference Resolution
 
 1. **Coreference Resolution: A Survey**.
    *Pradheep Elango*. University of Wisconsin, Madison, WI 2005. [[paper](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.102.1565&rep=rep1&type=pdf)]
@@ -136,7 +130,7 @@ Thanks for all great [contributors](#acknowledgements)! Everyone in Github is we
    *Kamran Kowsari, Kiana Jafari Meimandi, Mojtaba Heidarysafa, Sanjana Mendu, Laura Barnes, Donald Brown*. Information 2019. [[paper](https://www.mdpi.com/2078-2489/10/4/150/pdf)]
 
 1. **Semantic Text Classification: A Survey of Past and Recent Advances**.
-   *Berna Altinel, Murat Can Ganiz*. Information Processing \& Management 2018. [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0306457317305757)]
+   *Berna Altinel, Murat Can Ganiz*. IP\&M 2018. [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0306457317305757)]
 
 ### 2.2 Sentiment Analysis
 
@@ -246,7 +240,7 @@ Thanks for all great [contributors](#acknowledgements)! Everyone in Github is we
 1. **Network Representation Learning: A Survey**.
    *Daokun Zhang, Jie Yin, Xingquan Zhu, Chengqi Zhang*. TBD 2018. [[paper](https://arxiv.org/pdf/1801.05852.pdf)]
 1. **Network Representation Learning: An Overview**.
-   *Cunchao Tu, Cheng Yang, Zhiyuan Liu, Maosong Sun*. Scientia Sinica Informationis 2017. [[paper](http://engine.scichina.com/publisher/scp/journal/SSI/47/8/10.1360/N112017-00145)]
+   *Cunchao Tu, Cheng Yang, Zhiyuan Liu, Maosong Sun*. SSI 2017. [[paper](http://engine.scichina.com/publisher/scp/journal/SSI/47/8/10.1360/N112017-00145)]
 
 ## 7. Knowledge Graph
 
@@ -272,7 +266,7 @@ Thanks for all great [contributors](#acknowledgements)! Everyone in Github is we
 ### 8.1 Deep Learning for Natural Language Processing
 
 1. **A Survey of the Usages of Deep Learning for Natural Language Processing**.
-   *Daniel W. Otter, Julian R. Medina, Jugal K. Kalita*TNNLS 2021. [[paper](https://arxiv.org/pdf/1807.10854)]
+   *Daniel W. Otter, Julian R. Medina, Jugal K. Kalita*. TNNLS 2021. [[paper](https://arxiv.org/pdf/1807.10854)]
 
 1. **Recent Trends in Deep Learning Based Natural Language Processing**.
    *Tom Young, Devamanyu Hazarika, Soujanya Poria, Erik Cambria*. CIM 2018. [[paper](https://arxiv.org/pdf/1708.02709.pdf%C2%A0)]
@@ -355,7 +349,7 @@ Thanks for all great [contributors](#acknowledgements)! Everyone in Github is we
 ### 8.11 Intepretability and Analysis
 
 1. **On Interpretability of Artificial Neural Networks: A Survey**.
-   *Feng-Lei Fan, Jinjun Xiong, Mengzhou Li, Ge Wang*. IEEE Transactions on Radiation and Plasma Medical Sciences 2021. [[paper](https://arxiv.org/pdf/2001.02522)]
+   *Feng-Lei Fan, Jinjun Xiong, Mengzhou Li, Ge Wang*. TRPMS 2021. [[paper](https://arxiv.org/pdf/2001.02522)]
 
 1. **A Survey of the State of Explainable AI for Natural Language Processing**.
    *Marina Danilevsky, Kun Qian, Ranit Aharonov, Yannis Katsis, Ban Kawas, Prithviraj Sen*. AACL 2020. [[paper](https://arxiv.org/pdf/2010.00711)].
