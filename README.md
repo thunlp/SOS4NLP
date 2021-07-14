@@ -11,13 +11,15 @@ Thanks for all great [contributors](#acknowledgements)! Everyone in Github is we
 
 * [0. Surveys of Natural Language Processing](#0-surveys-of-natural-language-processing)
 * [1. Language Parsing](#1-language-parsing)
-  * [1.1 Semantic Parsing](#11-semantic-parsing)
-  * [1.2 Text Segmentation](#12-text-segmentation)
-  * [1.3 Part of Speech Tagging](#13-part-of-speech)
-  * [1.4 Coreference Resolution](#14-coreference-resolution)
-  * [1.5 Word Sense Disambiguation](#15-word-sense-disambiguation)
-  * [1.6 Named Entity Recognization](#16-named-entity-recognization)
-  * [1.7 Dependency Parsing](#17-dependency-parsing)
+  * [1.1 Text Segmentation](#11-text-segmentation)
+  * [1.2 Chinese Word Segmentation](#12-chinese-word-segmentation)
+  * [1.3 Syntactic Parsing](#13-syntactic-parsing)
+  * [1.4 Dependency Parsing](#14-dependency-parsing)
+  * [1.5 Semantic Parsing](#15-semantic-parsing)
+  * [1.6 Part of Speech Tagging](#16-part-of-speech)
+  * [1.7 Word Sense Disambiguation](#17-word-sense-disambiguation)
+  * [1.8 Named Entity Recognization](#18-named-entity-recognization)
+  * [1.9 Coreference Resolution](#19-coreference-resolution)
 * [2. Natural Language Understanding and Generation](#2-natural-language-understanding-and-generation)
   * [2.1 Text Classification](#21-text-classification)
   * [2.2 Sentiment Analysis](#22-sentiment-analysis) 
@@ -36,9 +38,11 @@ Thanks for all great [contributors](#acknowledgements)! Everyone in Github is we
   * [5.2 Question Answering](#52-question-answering)
 * [6. Representation Learning](#6-representation-learning)
   * [6.1 Representation Learning](#61-representation-learning)
-  * [6.2 Knowledge Representation Learning](#62-knowledge-representation-learning)
-  * [6.3 Word Representation Learning](#63-word-representation-learning)
-  * [6.4 Network Representation Learning](#64-network-representation-learning)
+  * [6.2 Word Representation Learning](#62-word-representation-learning)
+  * [6.3 Network Representation Learning](#63-network-representation-learning)
+* [7. Knowledge Graph](#7-knowledge-graph)
+  * [7.1 Knowledge Graph](#71-knowledge-graph)
+  * [7.2 Commen Sense Knowledge](#72-common-sense-knowledge)
 * [8. Machine Learning for Natural Language Processing](#8-machine-learning-for-natural-language-processing)
   * [8.1 Deep Learning for Natural Language Processing](#81-deep-learning-for-natural-language-processing)
   * [8.2 Transformers and Pretrain Language Models](#82-transformers-and-pre-trained-language-models)
@@ -74,27 +78,37 @@ Thanks for all great [contributors](#acknowledgements)! Everyone in Github is we
 
 ## 1. Language Parsing
 
-### 1.1 Semantic Parsing 
-
-1. **A Survey on Semantic Parsing**.
-   *Aishwarya Kamath, Rajarshi Das*. AKBC 2018. [[paper](https://arxiv.org/pdf/1812.00978)]
-
-### 1.2 Text Segmentation
+### 1.1 Text Segmentation
 
 1. **Text Segmentation Techniques: A Critical Review**. 
    *Irina Pak, Phoey Lee Teh*. Innovative Computing, Optimization and Its Applications 2018. [[paper](http://eprints.sunway.edu.my/840/1/Teh%20Phoey%20Lee%20Text%20Segmentation%20Techniques%20A%20Critical%20Review%20edited.pdf)]
 
-### 1.3 Part of Speech Tagging
+### 1.2 Chinese Word Segmentation
+
+1. **Chinese Word Segmentation: A Decade Review**. Changning Huang, Hai Zhao. JCIP 2007. [[paper](https://en.cnki.com.cn/Article_en/CJFDTotal-MESS200703001.htm)] 
+
+### 1.3 Syntactic Parsing
+
+1. **Syntactic Parsing: A Survey**.
+
+   *Alton F. Sanders and Ruth H. Sanders*. Computers and the Humanities 1989. [[paper](https://www.academia.edu/download/46281305/bf0005876620160606-13840-7rn8pc.pdf)]
+
+### 1.4 Dependency Parsing
+
+1. **Dependency Parsing**.
+   *Sandra Kubler, Ryan McDonald, Joakim Nivre*. SLHLT 2009. [[paper](https://www.linguisticsociety.org/sites/default/files/e-learning/dependencies.pdf)]
+
+### 1.5 Semantic Parsing 
+
+1. **A Survey on Semantic Parsing**.
+   *Aishwarya Kamath, Rajarshi Das*. AKBC 2018. [[paper](https://arxiv.org/pdf/1812.00978)]
+
+### 1.6 Part of Speech Tagging
 
 1. **Part‐of‐speech Tagging**.
-   *Angel R Martinez*. Wiley Interdisciplinary Reviews: Computational Statistics 2012. [[paper](https://wires.onlinelibrary.wiley.com/doi/epdf/10.1002/wics.195)]
+   *Angel R Martinez*. WIREs Comp Stats 2012. [[paper](https://wires.onlinelibrary.wiley.com/doi/epdf/10.1002/wics.195)]
 
-### 1.4 Coreference Resolution
-
-1. **Coreference Resolution: A Survey**.
-   *Pradheep Elango*. University of Wisconsin, Madison, WI 2005. [[paper](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.102.1565&rep=rep1&type=pdf)]
-
-### 1.5 Word Sense Disambiguation
+### 1.7 Word Sense Disambiguation
 
 1. **Word Sense Disambiguation: A Survey**.
    *Alok Ranjan Pal*. arXiv 2015. [[paper](https://arxiv.org/pdf/1508.01346)]  
@@ -102,18 +116,17 @@ Thanks for all great [contributors](#acknowledgements)! Everyone in Github is we
 1. **Word Sense Disambiguation: A Survey**.
    *Roberto Navigli*. CSUR 2009. [[paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.153.8457&rep=rep1&type=pdf)]
 
-### 1.6 Named Entity Recognization
+### 1.8 Named Entity Recognization
 
 1. **A Survey on Deep Learning for Named Entity Recognition**.
    *Jing Li, Aixin Sun, Jianglei Han, Chenliang Li*. TKDE 2020. [[paper](https://arxiv.org/pdf/1812.09449)]
-
 1. **A Survey of Named Entity Recognition and Classification**.
    *David Nadeau, Satoshi Sekine*. Lingvisticae Investigationes 2007. [[paper](https://www.time.mk/trajkovski/thesis/li07.pdf)]  
 
-### 1.7 Dependency Parsing
+### 1.9 Coreference Resolution
 
-1. **Dependency Parsing**.
-   *Sandra Kubler, Ryan McDonald, Joakim Nivre*. Synthesis Lectures on Human Language Technologies 2009. [[paper](https://www.linguisticsociety.org/sites/default/files/e-learning/dependencies.pdf)]
+1. **Coreference Resolution: A Survey**.
+   *Pradheep Elango*. University of Wisconsin, Madison, WI 2005. [[paper](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.102.1565&rep=rep1&type=pdf)]
 
 ## 2. Natural Language Understanding and Generation
 
@@ -235,7 +248,7 @@ Thanks for all great [contributors](#acknowledgements)! Everyone in Github is we
 1. **Network Representation Learning: An Overview**.
    *Cunchao Tu, Cheng Yang, Zhiyuan Liu, Maosong Sun*. Scientia Sinica Informationis 2017. [[paper](http://engine.scichina.com/publisher/scp/journal/SSI/47/8/10.1360/N112017-00145)]
 
-## 7. Knowledge Representation Learning
+## 7. Knowledge Graph
 
 ### 7.1 Knowledge Graph
 
