@@ -48,7 +48,7 @@ Thanks for all great [contributors](#acknowledgements)! Everyone in Github is we
   * [8.3 Graph Neural Networks](#83-graph-neural-networks)
   * [8.4 Reinforcement Learning](#84-reinforcement-learning)
   * [8.5 Data Augmentation](#85-data-augmentation)
-  * [8.6 Few/Zero Shot Learning](#86-few-zero-shot-learning)
+  * [8.6 Few and Zero Shot Learning](#86-few-and-zero-shot-learning)
   * [8.7 Meta Learning](#87-meta-learning)
   * [8.8 Continual Learning](#88-continual-learning)
   * [8.9 Contrastive Learning](#89-contrastive-learning)
@@ -312,7 +312,7 @@ Thanks for all great [contributors](#acknowledgements)! Everyone in Github is we
 3. **An Empirical Survey of Data Augmentation for Limited Data Learning in NLP**. 
     *Jiaao Chen, Derek Tam, Colin Raffel, Mohit Bansal, Diyi Yang*. arXiv 2021. [[paper](https://arxiv.org/pdf/2106.07499)]
 
-### 8.6 Few/Zero Shot Learning
+### 8.6 Few and Zero Shot Learning
 
 1. **A Survey on Recent Approaches for Natural Language Processing in Low-Resource Scenarios**.
    *Michael A. Hedderich, Lukas Lange, Heike Adel, Jannik Strötgen, Dietrich Klakow*. NAACL 2021. [[paper](https://aclanthology.org/2021.naacl-main.201.pdf)]
