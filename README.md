@@ -24,12 +24,12 @@ Thanks for all great [contributors](#acknowledgements)! Everyone in Github is we
   * [2.2 Sentiment Analysis](#22-sentiment-analysis) 
   * [2.3 Natural Language Inference](#23-natural-language-inference)
   * [2.4 Reading Comprehension](#24-reading-comprehension)
-  * [2.5 Natural Language Generation](#25-natural-language-generation)
+  * [2.5 Text Generation](#25-text-generation)
   * [2.6 Machine Translation](#26-machine-translation)
   * [2.7 Text Summarization](#27-text-summarization)
 * [3. Information Extraction](#3-information-extraction)
   * [3.1 Relation Extraction](#31-relation-extraction)
-  * [3.2 Event Extration](#32-event-extraction)
+  * [3.2 Event Extraction](#32-event-extraction)
   * [3.3 Open Information Extraction](#33-open-information-extraction)
 * [4. Information Retrieval](#4-information-retrieval)
 * [5. Dialogue and Question Answering](#5-dialogue-and-question-answering)
@@ -188,7 +188,7 @@ Thanks for all great [contributors](#acknowledgements)! Everyone in Github is we
 1. **Relation Extraction: A Survey**.
    *Sachin Pawar, Girish K. Palshikara, Pushpak Bhattacharyyab*. arXiv 2017. [[paper](https://arxiv.org/pdf/1712.05191.pdf)]
 
-### 3.2 Event Extration
+### 3.2 Event Extraction
 
 2. **Extracting Events and Their Relations from Texts: A Survey on Recent Research Progress and Challenges**.
    *Kang Liu, Yubo Chen, Jian Liu, Xinyu Zuo, Jun Zhao*. AI Open 2020. [[paper](https://www.sciencedirect.com/science/article/pii/S266665102100005X/pdfft?md5=3983861e9ae91ce7b45f0c5533071077&pid=1-s2.0-S266665102100005X-main.pdf)]
