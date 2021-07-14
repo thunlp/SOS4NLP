@@ -48,7 +48,7 @@ Thanks for all great [contributors](#acknowledgements)! Everyone in Github is we
   * [8.3 Graph Neural Networks](#83-graph-neural-networks)
   * [8.4 Reinforcement Learning](#84-reinforcement-learning)
   * [8.5 Data Augmentation](#85-data-augmentation)
-  * [8.6 Few/Zero Shot Learning](#86-few/zero-shot-learning)
+  * [8.6 Few/Zero Shot Learning](#86-few\/zero-shot-learning)
   * [8.7 Meta Learning](#87-meta-learning)
   * [8.8 Continual Learning](#88-continual-learning)
   * [8.9 Contrastive Learning](#89-contrastive-learning)
