@@ -41,7 +41,7 @@ Thanks for all great [contributors](#acknowledgements)! Everyone in Github is we
   * [6.3 Network Representation Learning](#63-network-representation-learning)
 * [7. Knowledge Graph](#7-knowledge-graph)
   * [7.1 Knowledge Graph](#71-knowledge-graph)
-  * [7.2 Commen Sense Knowledge](#72-common-sense-knowledge)
+  * [7.2 Commen Sense Knowledge Graph](#72-common-sense-knowledge-graph)
 * [8. Machine Learning for Natural Language Processing](#8-machine-learning-for-natural-language-processing)
   * [8.1 Deep Learning for Natural Language Processing](#81-deep-learning-for-natural-language-processing)
   * [8.2 Transformers and Pre-trained Language Models](#82-transformers-and-pre-trained-language-models)
@@ -63,14 +63,12 @@ Thanks for all great [contributors](#acknowledgements)! Everyone in Github is we
   * [9.5 Computational Social Science](#95-computational-social-science)
 * [Acknowledgements](#acknowledgements)
 
-
 ## 0. Surveys of Natural Language Processing
 
+1. **Neural Network Methods for Natural Language Processing**. *Yoav Goldberg*. SLHLT 2017. [[paper]()]
 1. **Advances in natural language processing**. *Julia Hirschberg, Christopher D Manning*. Science 2015. [[paper](https://nlp.stanford.edu/~manning/xyzzy/Hirschberg-Manning-Science-2015.pdf)]
-
 1. **Jumping NLP Curves: A Review of Natural Language Processing Research**.
    *Erik Cambria, Bebo White*. CIM 2014. [[paper](https://www.gwern.net/docs/ai/2014-cambria.pdf)]
-
 1. **Natural Language Processing: An Introduction**.
    *Prakash M Nadkarni,  Lucila Ohno-Machado,  Wendy W Chapman*. JAMIA 2011. [[paper](https://watermark.silverchair.com/18-5-544.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAskwggLFBgkqhkiG9w0BBwagggK2MIICsgIBADCCAqsGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMTbW0kBdq70u31A2pAgEQgIICfB9c_mxn3VbFBsTi1npJDFQeVGcPm4ColBNSaoe_IQi7mxDJx5DwD9mmYvdhOQf3CIcds_yDPpLJFP_9bvkf0mfQkKb3U9TSm-KMl_xwLjhkIi090ceKWUhQqcbihY4IWKJmapv0kADF73tPUl9yGhmjFe6Bn7wAKhBC0_XE_A1qpqgscRoyQ3rocVi6dklbHjFKBbIKO5790l6gJXijbVqwAJF3WBGWhP9v0uvXlRun--BG8BZYk2CA6aleWw4T_pCh0fh4ZA1zXNnkr3MiE3Z3YtSdNvDuNA19kekWt8WtRDJd33KRqqWIzk_t-Tekk87SpMLR3O59In65vBSUIBiuFB6xPXJu4-HkU6m5hb9NybU8iYT2oQNQQXdh3Xep4c8OfzCkhLO-CVGhIEOLmNgfKuOnxZW9KAQeZrauNHd-binadf6b5MKrtecCOvrdNgAZNSIyTlGUC_knXbGmMbI3ELTDvARIulZykTF0ZfPCFDDxCrWlpy2FzS_9yBwNc_h7qRC0MxINmxHlADF7efxm3L9XoM7v2bul5tqInTjmjGDZX8ZjSlBs0E2Nvq8YaBxaGJkYV7L-KSY81qgRVMfekEha7eRZFPAn6bFbfO3WulUpfD1veDasuwyIlRsql3EGx4VGmkSE7SpYPrMEVSdHU0Wo8LKKj1xCTzmIv_0Por_y4uAnjB7J3IToavjoanU6iOkg-rFyYw5Y8guFBDPJ9CyKLeBf3RjU1_KEOXW2IGaVIcKvQqFIL_Xnb8sBUSZfFJ3bpNpT4aqHyAKun8Ec6yYGd1hVuGg57nHbuDODtxoe-RB0f3BK3K-Lu698fCh-fpWhAAcziNHZhQ)]
 
@@ -246,8 +244,14 @@ Thanks for all great [contributors](#acknowledgements)! Everyone in Github is we
 
 ### 7.1 Knowledge Graph
 
+1. **Neural, Symbolic and Neural-symbolic Reasoning on Knowledge Graphs**.
+   
+*Jing Zhang, Bo Chen, Lingxi Zhang, Xirui Ke, Haipeng Ding*. AI Open 2021. [[paper](https://www.sciencedirect.com/science/article/pii/S2666651021000061/pdfft?md5=41dae412c5802b063f8ff0615ba12622&pid=1-s2.0-S2666651021000061-main.pdf)]
+   
 1. **Knowledge Graph Embedding: A Survey of Approaches and Applications**.
    *Quan Wang, Zhendong Mao, Bin Wang, Li Guo*. TKDE 2017. [[paper](http://ieeexplore.ieee.org/abstract/document/8047276/)]
+
+1. **Knowledge Graph Refinement: A Survey of Approaches and Evaluation Methods**. *Heiko Paulheim*. Semantic Web 2017. [[paper](http://www.semantic-web-journal.net/system/files/swj1167.pdf)]
 
 1. **Knowledge Representation Learning: A Review**.
    *Zhiyuan Liu, Maosong Sun, Yankai Lin, Ruobing Xie*. JCRD 2016. [[paper](https://crad.ict.ac.cn/EN/article/downloadArticleFile.do?attachType=PDF&id=3099)]
@@ -255,7 +259,7 @@ Thanks for all great [contributors](#acknowledgements)! Everyone in Github is we
 1. **A Review of Relational Machine Learning for Knowledge Graphs**.
    *Maximilian Nickel, Kevin Murphy, Volker Tresp, Evgeniy Gabrilovich*. Proceedings of the IEEE 2015. [[paper](https://arxiv.org/pdf/1503.00759)]
 
-### 7.2 Common Sense Knowledge
+### 7.2 Common Sense Knowledge Graph
 
 1. **Sememe Knowledge Computation: A Review of Recent Advances in Application and Expansion of Sememe Knowledge Bases**.
    *Fanchao Qi, Ruobing Xie, Yuan Zang, Zhiyuan Liu, Maosong Sun*. FCS 2021. [[paper](https://link.springer.com/article/10.1007/s11704-020-0002-4)]
