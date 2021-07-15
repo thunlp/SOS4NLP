@@ -55,7 +55,7 @@ Thanks for all great [contributors](#acknowledgements)! Everyone in Github is we
   * [8.10 Multi-Task Learning](#810-multi-task-learning)
   * [8.11 Intepretability and Analysis](#811-intepretability-and-analysis)
   * [8.12 Security Threats and Defense](#812-security-threats-and-defense)
-* [9. Natural language Processing Application](#9-natural-language-processing-application)
+* [9. Natural language Processing Applications](#9-natural-language-processing-applications)
   * [9.1 Legal Intelligence](#91-legal-intelligence)
   * [9.2 Bioinformatics](#92-bioinformatics)
   * [9.3 Financial Intelligence](#93-financial-intelligence)
@@ -326,11 +326,9 @@ Thanks for all great [contributors](#acknowledgements)! Everyone in Github is we
 
 ### 8.7 Meta Learning
 
-1. **Meta-Learning in Neural Networks: A Survey**.
+1. **Meta-learning in Neural Networks: A Survey**.
    *Timothy Hospedales, Antreas Antoniou, Paul Micaelli, Amos Storkey*. PAMI 2020. [[paper](https://arxiv.org/pdf/2004.05439)]
-
-1. **Meta-Learning: A Survey**.
-   *Joaquin Vanschoren*. arXiv 2018. [[paper](https://arxiv.org/pdf/1810.03548)]
+1. **A Survey of Deep Meta‐learning**. *Mike Huisman, Jan N. van Rijn, Aske Plaat*. AIR 2021. [[paper](https://link.springer.com/content/pdf/10.1007/s10462-021-10004-4.pdf)]
 
 ### 8.8 Continual Learning
 
@@ -378,7 +376,7 @@ Thanks for all great [contributors](#acknowledgements)! Everyone in Github is we
 1. **A Survey of Privacy Attacks in Machine Learning**.
    *Maria Rigaki, Sebastian Garcia*. arXiv 2020. [[paper](https://arxiv.org/pdf/2007.07646)]
 
-## 9. Natural language Processing Application
+## 9. Natural language Processing Applications
 
 ### 9.1 Legal Intelligence
 
